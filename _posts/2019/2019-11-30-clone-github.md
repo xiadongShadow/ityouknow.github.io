@@ -18,14 +18,12 @@ excerpt:
 ``` git config --global http.proxy socks5://127.0.0.1:1081
 ```
 
-
 此命令是给git设置全局代理，而我们的目的是只需要github上的代码库走代理，所以最终命令如下：
 
 ``` git config --global http.https://github.com.proxy socks5://127.0.0.1:1081
 ```
 
-
-查看代理是否设置成功： 
+查看代理是否设置成功：
 ``` git config -l
 ```
 
