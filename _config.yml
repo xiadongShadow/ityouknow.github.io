@@ -17,9 +17,9 @@ favicon: favicon.ico
 
 repository: xiadongShadow/xiadongShadow.github.io
 github_url: https://github.com/xiadongShadow
-url: http://www.xiadongshadow.com
+url: http://www.xiadongshadow.cn
 ## url: https://xiadongShadow.github.io
-enforce_ssl: xiadongshadow.com
+enforce_ssl: xiadongshadow.cn
 
 ## Gem
 plugins:
