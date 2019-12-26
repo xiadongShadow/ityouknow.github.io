@@ -19,7 +19,7 @@ repository: xiadongShadow/xiadongShadow.github.io
 github_url: https://github.com/xiadongShadow
 url: http://www.xiadongblog.com
 ## url: https://xiadongShadow.github.io
-enforce_ssl: xiadongblog.com
+enforce_ssl: www.xiadongblog.com
 
 ## Gem
 plugins:
